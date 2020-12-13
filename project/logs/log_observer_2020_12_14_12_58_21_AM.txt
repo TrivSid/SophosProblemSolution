@@ -1,0 +1,11 @@
+[12-14 00:58] [root] [INFO] ---------------------------------OBSERVER APP-------------------------------------
+[12-14 00:58] [root] [INFO] Start time: 2020-12-14 00:58:21.236241
+[12-14 00:58] [ log] [INFO] ---------------------------------OBSERVATION ON-------------------------------------
+[12-14 00:58] [ log] [INFO] Folder "D:\Siddharth\Programming\sofos_project\todecode" already exists.
+[12-14 00:58] [ log] [INFO] Older files (if present) has been deleted from "D:\Siddharth\Programming\sofos_project\todecode".
+[12-14 00:58] [ log] [INFO] Folder "D:\Siddharth\Programming\sofos_project\todecode" is under observation.
+[12-14 00:58] [ log] [INFO] New text file found under observation: "D:\Siddharth\Programming\sofos_project\todecode\2020_12_14_12_57_29_am.zip"
+[12-14 00:58] [ log] [INFO] Reading zip file "D:\Siddharth\Programming\sofos_project\todecode\2020_12_14_12_57_29_am.zip"
+[12-14 00:58] [ log] [INFO] Performed PII filtration on file content.
+[12-14 00:58] [ log] [INFO] Creating PII_filtered file at : "D:\Siddharth\Programming\sofos_project\todecode\PII_filtered_sample.txt"
+[12-14 00:58] [ log] [INFO] Observation continue. .

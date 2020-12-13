@@ -1,0 +1,12 @@
+[12-14 00:57] [root] [INFO] ---------------------------------OBSERVER APP-------------------------------------
+[12-14 00:57] [root] [INFO] Start time: 2020-12-14 00:57:20.829519
+[12-14 00:57] [ log] [INFO] ---------------------------------OBSERVATION ON-------------------------------------
+[12-14 00:57] [ log] [INFO] Folder "D:\Siddharth\Programming\sofos_project\todecode" already exists.
+[12-14 00:57] [ log] [INFO] Older files (if present) has been deleted from "D:\Siddharth\Programming\sofos_project\todecode".
+[12-14 00:57] [ log] [INFO] Folder "D:\Siddharth\Programming\sofos_project\monitor" is under observation.
+[12-14 00:57] [ log] [INFO] New text file found under observation: "D:\Siddharth\Programming\sofos_project\monitor\sample.txt"
+[12-14 00:57] [ log] [DEBUG] Folder name and password has been decided
+[12-14 00:57] [ log] [INFO] Password protected zip file "2020_12_14_12_57_29_am.zip" has been created
+[12-14 00:57] [ log] [INFO] file "sample.txt" has been compressed in "2020_12_14_12_57_29_am.zip"
+[12-14 00:57] [ log] [INFO] file "D:\Siddharth\Programming\sofos_project\2020_12_14_12_57_29_am.zip" is moved to "D:\Siddharth\Programming\sofos_project\todecode".
+[12-14 00:57] [ log] [INFO] Observation continue. .
